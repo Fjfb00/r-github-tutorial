@@ -78,5 +78,5 @@ Encontraste um erro? Tens uma sugestão? Consulta o nosso [guia de contribuiçã
 Este tutorial é open source e está disponível para uso educacional.
 
 ---
-
+Conclui o tutorial
 **Pronto para começar?** Vai para o [guia de instalação](docs/01-setup.md) e começa a tua jornada! 🎉
