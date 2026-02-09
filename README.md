@@ -79,4 +79,8 @@ Este tutorial é open source e está disponível para uso educacional.
 
 ---
 Conclui o tutorial
+## 👥 Participantes
+
+- [O TEU NOME] - Completei o tutorial!
+
 **Pronto para começar?** Vai para o [guia de instalação](docs/01-setup.md) e começa a tua jornada! 🎉
