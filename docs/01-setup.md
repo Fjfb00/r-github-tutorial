@@ -136,12 +136,12 @@ O Positron tem integração nativa com Git. Vamos garantir que está tudo a func
 
 Antes de avançares, confirma que tens tudo:
 
-- [ ] Git instalado (verificado com `git --version`)
-- [ ] Positron instalado e a funcionar
-- [ ] R instalado (versão 4.3.0+)
-- [ ] Conta no GitHub criada e email verificado
-- [ ] Pacotes R instalados (tidyverse, quarto, usethis)
-- [ ] Integração Git no Positron a funcionar
+- [X] Git instalado (verificado com `git --version`)
+- [X] Positron instalado e a funcionar
+- [X] R instalado (versão 4.3.0+)
+- [X] Conta no GitHub criada e email verificado
+- [X] Pacotes R instalados (tidyverse, quarto, usethis)
+- [X] Integração Git no Positron a funcionar
 
 ---
 
